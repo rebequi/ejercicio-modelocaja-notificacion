@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;800&display=swap');
+
+.contenedorprincipal{background-color: #fafafa;
+    
+
+}
+
+.icono {height: 50px;
+    width: 50px;
+}
+
+.h1 {font-family: 'Martel Sans', sans-serif;
+    font-weight: 800px;
+
+}
+
+
+
+.contenedor {height: 300px;
+    width: 400px;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    font-family: 'Martel Sans', sans-serif;
+    font-weight: 200px;
+    text-align: justify;
+    border: 0.5px black solid;
+
+}
+
+.botonuno { background-color: rgb(26, 174, 194);
+    font-family: 'Martel Sans', sans-serif;
+    width: 150px;
+    height: 50px;
+
+}
